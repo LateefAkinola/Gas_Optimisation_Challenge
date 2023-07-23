@@ -1,6 +1,9 @@
 # Gas Optimisation Challenge
 The task is to optimise a smart contract by applying various gas optimisation techniques.
 
+![222](https://github.com/LateefAkinola/Gas_Optimisation_Challenge/assets/105966848/d3db2419-7c6a-4c82-9532-024823ba20b5)
+
+
 ## Explanation of changes made:
 
 1. `Fixed Size Array`: Instead of using a dynamic array (`uint[]`), a fixed-size array (`uint[10]`) was used. Fixed-size arrays are more gas-efficient because Solidity does not need to perform dynamic memory allocation.
