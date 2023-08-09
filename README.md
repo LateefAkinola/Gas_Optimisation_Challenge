@@ -1,7 +1,8 @@
 # Gas Optimisation Challenge
 The task is to optimise a smart contract by applying various gas optimisation techniques.
 
-![222](https://github.com/LateefAkinola/Gas_Optimisation_Challenge/assets/105966848/d3db2419-7c6a-4c82-9532-024823ba20b5)
+
+![Gas Station](https://github.com/LateefAkinola/Gas_Optimisation_Challenge/assets/105966848/c5f49a68-2688-44de-9271-222999209f4c)
 
 
 ## Explanation of changes made:
